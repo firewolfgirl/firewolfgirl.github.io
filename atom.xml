@@ -5,9 +5,9 @@
   <subtitle>Stay Hungry, Stay Foolish</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://firewolfgirl.github.io/"/>
   <updated>2018-07-13T02:35:21.268Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://firewolfgirl.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/07/08/hello-world/"/>
-    <id>http://yoursite.com/2018/07/08/hello-world/</id>
+    <link href="https://firewolfgirl.github.io/2018/07/08/hello-world/"/>
+    <id>https://firewolfgirl.github.io/2018/07/08/hello-world/</id>
     <published>2018-07-08T12:43:39.957Z</published>
     <updated>2018-07-13T02:35:21.268Z</updated>
     
@@ -34,10 +34,10 @@
     
     </summary>
     
-      <category term="blogs" scheme="http://yoursite.com/categories/blogs/"/>
+      <category term="blogs" scheme="https://firewolfgirl.github.io/categories/blogs/"/>
     
     
-      <category term="blog" scheme="http://yoursite.com/tags/blog/"/>
+      <category term="blog" scheme="https://firewolfgirl.github.io/tags/blog/"/>
     
   </entry>
   
