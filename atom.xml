@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://firewolfgirl.github.io/"/>
-  <updated>2018-07-15T06:14:39.139Z</updated>
+  <updated>2018-07-13T02:35:21.268Z</updated>
   <id>https://firewolfgirl.github.io/</id>
   
   <author>
@@ -15,32 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://firewolfgirl.github.io/2018/07/13/myfirstbolg/"/>
-    <id>https://firewolfgirl.github.io/2018/07/13/myfirstbolg/</id>
-    <published>2018-07-13T15:56:40.893Z</published>
-    <updated>2018-07-15T06:14:39.139Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          
-        
-      
-    
-    </summary>
-    
-      <category term="blogs" scheme="https://firewolfgirl.github.io/categories/blogs/"/>
-    
-    
-      <category term="blog" scheme="https://firewolfgirl.github.io/tags/blog/"/>
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
