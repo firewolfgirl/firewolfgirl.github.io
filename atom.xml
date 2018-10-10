@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://firewolfgirl.github.io/"/>
-  <updated>2018-10-09T14:46:33.211Z</updated>
+  <updated>2018-10-10T00:53:03.238Z</updated>
   <id>https://firewolfgirl.github.io/</id>
   
   <author>
@@ -17,21 +17,15 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>myfirstbolg</title>
+    <title>Markdown常用通用基础语法实践</title>
     <link href="https://firewolfgirl.github.io/2018/07/13/myfirstbolg/"/>
     <id>https://firewolfgirl.github.io/2018/07/13/myfirstbolg/</id>
     <published>2018-07-13T15:56:40.000Z</published>
-    <updated>2018-10-09T14:46:33.211Z</updated>
+    <updated>2018-10-10T00:53:03.238Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          
-        
-      
+      &lt;p&gt;&lt;img src=&quot;http://pbztvgh31.bkt.clouddn.com/images/jpg/blogs/qiniuyun/1/1.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;上图是本篇博客的介绍图片，显示在首页增强美感，本句话也将显示在首页。&lt;br&gt;Markdown常用通用基础语法实践&lt;br&gt;
     
     </summary>
     
