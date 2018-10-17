@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://firewolfgirl.github.io/"/>
-  <updated>2018-10-10T07:48:22.264Z</updated>
+  <updated>2018-10-17T03:09:47.826Z</updated>
   <id>https://firewolfgirl.github.io/</id>
   
   <author>
@@ -17,11 +17,27 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>七牛教程</title>
+    <link href="https://firewolfgirl.github.io/2018/10/17/%E4%B8%83%E7%89%9B%E6%95%99%E7%A8%8B/"/>
+    <id>https://firewolfgirl.github.io/2018/10/17/七牛教程/</id>
+    <published>2018-10-17T02:26:46.000Z</published>
+    <updated>2018-10-17T03:09:47.826Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://pbztvgh31.bkt.clouddn.com/images/jpg/blogs/qiniuyun/%E4%B8%83%E7%89%9B%E6%95%99%E7%A8%8B/0.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;大二暑假在一次项目中接触到七牛云（云服务平台），它的云存储服务感觉非常不错。现在重新整理总结其使用心得。&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hexo常用指令</title>
     <link href="https://firewolfgirl.github.io/2018/10/10/Hexo%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/"/>
     <id>https://firewolfgirl.github.io/2018/10/10/Hexo常用指令/</id>
     <published>2018-10-10T07:12:01.000Z</published>
-    <updated>2018-10-10T07:48:22.264Z</updated>
+    <updated>2018-10-10T16:44:38.490Z</updated>
     
     <summary type="html">
     
@@ -29,10 +45,10 @@
     
     </summary>
     
-      <category term="blogs" scheme="https://firewolfgirl.github.io/categories/blogs/"/>
+      <category term="Hexo" scheme="https://firewolfgirl.github.io/categories/Hexo/"/>
     
     
-      <category term="blog" scheme="https://firewolfgirl.github.io/tags/blog/"/>
+      <category term="blog，Hexo" scheme="https://firewolfgirl.github.io/tags/blog%EF%BC%8CHexo/"/>
     
   </entry>
   
@@ -41,7 +57,7 @@
     <link href="https://firewolfgirl.github.io/2018/07/13/Markdown%E5%B8%B8%E7%94%A8%E9%80%9A%E7%94%A8%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95%E5%AE%9E%E8%B7%B5%20/"/>
     <id>https://firewolfgirl.github.io/2018/07/13/Markdown常用通用基础语法实践 /</id>
     <published>2018-07-13T15:56:40.000Z</published>
-    <updated>2018-10-10T07:24:55.283Z</updated>
+    <updated>2018-10-10T16:45:26.892Z</updated>
     
     <summary type="html">
     
