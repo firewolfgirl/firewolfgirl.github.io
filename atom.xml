@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://firewolfgirl.github.io/"/>
-  <updated>2018-10-17T03:43:51.167Z</updated>
+  <updated>2018-10-17T03:46:22.241Z</updated>
   <id>https://firewolfgirl.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://firewolfgirl.github.io/2018/10/17/%E4%B8%83%E7%89%9B%E6%95%99%E7%A8%8B/"/>
     <id>https://firewolfgirl.github.io/2018/10/17/七牛教程/</id>
     <published>2018-10-17T02:26:46.000Z</published>
-    <updated>2018-10-17T03:43:51.167Z</updated>
+    <updated>2018-10-17T03:46:22.241Z</updated>
     
     <summary type="html">
     
@@ -29,6 +29,10 @@
     
     </summary>
     
+      <category term="blogs" scheme="https://firewolfgirl.github.io/categories/blogs/"/>
+    
+    
+      <category term="blog" scheme="https://firewolfgirl.github.io/tags/blog/"/>
     
   </entry>
   
